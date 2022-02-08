@@ -19,3 +19,17 @@ the form with the admin username, email and which role will she have:
 image:admins_invite.png[Invite participant as administrator form]
 
 You can invite an already registered or a non registered participant.
+
+# Confirm admin account registration
+
+First the person must "Accept the invitation" that they have received by email by clicking on the link:
+
+
+This link leads to the form to complete the necessary data for the registration of this administrator user:
+
+
+Once the form is completed, a welcome message appears and a notice that you must accept the Conditions of participation for administrators in order to have access to the full administration panel:
+
+
+Once the conditions have been confirmed and accepted, the user already has access to the complete administration control panel.
+
